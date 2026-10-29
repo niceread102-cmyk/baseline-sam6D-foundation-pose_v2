@@ -1,0 +1,1 @@
+# baseline-sam6D-foundation-pose_v2
